@@ -1,0 +1,7 @@
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: Jayvee's Data Science Archives
+description: An Archive of Personal Data Science Projects for Public Use
